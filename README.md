@@ -17,7 +17,7 @@ The API can be opened in your browser at http://127.0.0.1:8000/, and we can view
 If you use the Login control in the top right corner you'll also be able to create, update, and delete a customer or reservation from the system.
 
 
-<img src="./img/API_reservation_sreenshot.png" alt="API-reservation" title="An API Reservation example" width="400" height="290"/>
+<img src="./img/API_reservation_screenshot.png" alt="API-reservation" title="An API Reservation example" width="400" height="290"/>
 
 
 ### Test
